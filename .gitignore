@@ -1,0 +1,20 @@
+# --- Python ---
+__pycache__/
+*.pyc
+
+# --- Virtual Environment ---
+.venv/
+
+# --- MLflow ---
+mlruns/
+mlartifacts/
+
+# --- Reports & Logs ---
+*.log
+*.html
+reports/
+
+# --- OS & IDE ---
+.DS_Store
+.vscode/
+.idea/
